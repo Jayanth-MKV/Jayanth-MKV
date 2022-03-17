@@ -3,7 +3,7 @@
              🎇       ✨
  👋 Hi, I’m  JAYANTH MKV 😊
 
-   🏫 A Sophomore🖋️ at JNTU , Vizianagaram🏔️🗺️ 
+   🏫 A Student🖋️ at JNTU , Vizianagaram🏔️🗺️ 
        pursuing Btech📓 in Computer Science💻  
 
    👀 I’m interested in Artificial Intelligence💡 driven by Machine Learning🖥️ and Data Science📊.
