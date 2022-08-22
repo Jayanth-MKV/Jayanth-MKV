@@ -7,7 +7,7 @@
 
 &nbsp;
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1qi9jxtXNmCobkNhd4/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1qi9jxtXNmCobkNhd4/giphy.gif">
 
 
    🏫  Student🖋️ at JNTU-GV 🏔️🗺️ 
