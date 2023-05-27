@@ -1,5 +1,6 @@
-[![MasterHead](./bg.jpg)](https://github.com/Jayanth-MKV)
-<h1 align="center"><b>👋 Hi, I’m  JAYANTH 😎</b></h1>
+[![MasterHead](./bg1.jpg)](https://github.com/Jayanth-MKV)
+
+<!-- <h1 align="center"><b>👋 Hi, I’m  JAYANTH 😎</b></h1> -->
 
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=FFFF00&background=7FFCFF00&center=true&height=69&lines=Hello+mate!;Learn+with+Fun;Feel+free+to+view+👇"/></p>
