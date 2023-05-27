@@ -1,4 +1,4 @@
-[![MasterHead](./bg1.jpg)](https://github.com/Jayanth-MKV)
+[![MasterHead](./bg1.png)](https://github.com/Jayanth-MKV)
 
 <!-- <h1 align="center"><b>👋 Hi, I’m  JAYANTH 😎</b></h1> -->
 
