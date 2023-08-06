@@ -26,26 +26,24 @@
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1qi9jxtXNmCobkNhd4/giphy.gif">
+<!--<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1qi9jxtXNmCobkNhd4/giphy.gif"> -->
 <br>
 
 ### Connect with me:
 
-
-
-<p align="left">
-<a href="https://twitter.com/jayanthmkv" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="jayanthmarina" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jayanth-mkv-685609207/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="https://www.linkedin.com/in/jay1113" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" alt="https://www.facebook.com/jayanthintect1" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jayanth_mkv" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="https://www.instagram.com/jayanth_mkv" height="30" width="40" /></a>
-<a href="https://discord.gg/9MxVqaeK7e" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="https://discord.gg/9MxVqaeK7e" height="30" width="40" /></a>
-</p><br> 
+<a href="https://twitter.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="jayanthmarina" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayanth-mkv-685609207/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_linkedin-256.png" alt="https://www.linkedin.com/in/jay1113" height="40" width="40" /></a>
+<a href="https://www.facebook.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_facebook-256.png" alt="https://www.facebook.com/jayanthintect1" height="40" width="40" /></a>
+<a href="https://www.instagram.com/jayanth_mkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_instagram-256.png" alt="https://www.instagram.com/jayanth_mkv" height="40" width="40" /></a>
+<a href="https://discord.gg/9MxVqaeK7e" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-256.png" alt="https://discord.gg/9MxVqaeK7e" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@xplorecommunity" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_youtube-64.png" alt="https://www.youtube.com/@xplorecommunity" height="40" width="40" /></a>
+<br> 
 
 
 <br>
              
-![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=Jayanth-MKV&count_private=true&include_all_commits=true&theme=nightowl)
-
+<!--![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=Jayanth-MKV&count_private=true&include_all_commits=true&theme=nightowl)
+-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jayanth-MKV&theme=nightowl)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayanth-MKV"/> -->
