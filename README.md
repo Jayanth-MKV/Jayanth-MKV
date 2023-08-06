@@ -9,24 +9,30 @@
 
 &nbsp;
 
+## Software Development Engineer
+
+👀 I’m also working on **Artificial Intelligence💡, Machine Learning🖥️ and Data Science📊**, Its Implementation in **Robotic🖇️ Stimulation And Automation** and in the **Medical Field🧬** as well as in the **Web and Android Applications**.
+
+🌱 I’m currently learning **ML pipeline and other Frameworks😋**.
+
+💞️ I’m looking to collaborate with People who work on the Domain of **Artificial Intelligence💡, Machine Learning🖇️, CyberSecurity**, **Web Development🌟**, **Web3 Development🔅**, and also the **Open Source Contributors🗣️**
+   who do Great Work can feel free to talk.
+
+💬 Ask me about **Tech concepts like Web, ML, and DSA 😊**.
+
+<br>
+
+[![Xplore Community](https://xplore-blog.vercel.app/xc-1.png)](https://discord.com/invite/9MxVqaeK7e)
+
+<br>
+
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1qi9jxtXNmCobkNhd4/giphy.gif">
+<br>
+
+### Connect with me:
 
 
-   🏫  Student🖋️ at JNTU-GV 🏔️🗺️ 
-       pursuing Btech📓 in Computer Science💻 <br>
-      
-   👀 I’m interested in Artificial Intelligence💡, Machine Learning🖥️ and Data Science📊.<br>
-       Its Implementation in Robotic🖇️ Stimulation And Automation and in the Medical Field🧬 as well as 
-       in the Web and Android Applications.<br>
-      
-   🌱 I’m currently learning ML pipeline and other Frameworks😋<br>
-   
-   💞️ I’m looking to collaborate with People who work on the Domain of Artificial Intelligence💡, Machine Learning🖇️ , CyberSecurity ,
-       Web Development🌟<br> , Android Development🔅 and also the Open Source Contributors🗣️&nbsp; Who do Great Work can feel free to talk. <br>
-      
-   💬 Ask me about Tech concepts like Web ML and DSA 😊
-<br>   
-   <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/jayanthmkv" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="jayanthmarina" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jayanth-mkv-685609207/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="https://www.linkedin.com/in/jay1113" height="30" width="40" /></a>
@@ -34,6 +40,9 @@
 <a href="https://www.instagram.com/jayanth_mkv" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" alt="https://www.instagram.com/jayanth_mkv" height="30" width="40" /></a>
 <a href="https://discord.gg/9MxVqaeK7e" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="https://discord.gg/9MxVqaeK7e" height="30" width="40" /></a>
 </p><br> 
+
+
+<br>
              
 ![Jayanth's github stats](https://github-readme-stats.vercel.app/api?username=Jayanth-MKV&count_private=true&include_all_commits=true&theme=nightowl)
 
