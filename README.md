@@ -1,5 +1,4 @@
-[![MasterHead](./bg1.png)](https://github.com/Jayanth-MKV)
-
+<img alt="MasterHead" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhycjUQiPGGlkBHiqMxfTTnMTfWEPIfI5Wl_-RWYmHKwDu991ENLjBVp7BWdjldS7qnL8pz-dodMvDJSJsqE0rg78IKnqm6iE-Vi-QnTe-TmApUIM5-T8dw2tiSVnhWkSKI8vPoW8Q-frxhv4cp0g-6V-iqA97qvByGwakrzgqRqAuKmZcdxdJrkxxKxg/s1584/bg1.png" style="width: 100%;">
 <!-- <h1 align="center"><b>👋 Hi, I’m  JAYANTH 😎</b></h1> -->
 
 
