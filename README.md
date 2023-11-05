@@ -52,7 +52,7 @@
 
 <h3 align="left">Web</h3>
 
-![Web](https://skillicons.dev/icons?i=mongo,express,react,nodejs,next,typescript,tailwind,redux,threejs&perline=5)
+![Web](https://skillicons.dev/icons?i=mongo,express,react,nodejs,next,typescript,tailwind,redux,threejs,prisma&perline=5)
 
 
 
