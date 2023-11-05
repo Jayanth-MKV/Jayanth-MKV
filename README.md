@@ -63,11 +63,11 @@
 
 <h3 align="left">AI-ML</h3>
 
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow&perline=5)
+![AI](https://skillicons.dev/icons?i=pytorch,aws&perline=5)
 
 <h3 align="left"> Dev 🛠</h3>
 
-![Web](https://skillicons.dev/icons?i=docker,kubernetes,postman,jenkins,git,aws&perline=5)
+![Web](https://skillicons.dev/icons?i=docker,kubernetes,postman,git,electron,&perline=5)
 
 
 <h3 align="left"> My articles here</h3>
