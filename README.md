@@ -2,7 +2,7 @@
 <!-- <h1 align="center"><b>👋 Hi, I’m  JAYANTH 😎</b></h1> -->
 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=FFFF00&background=7FFCFF00&center=true&height=69&lines=Hello+mate!;Learn+with+Fun;Feel+free+to+view+👇"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=30&duration=3000&color=36BCF7FF&background=7FFCFF00&center=true&height=69&lines=Hello+Mate!;Let's+Learn+With+Fun;Let's+Connect;Take+A+View+👇"/></p>
 
 <img src="https://komarev.com/ghpvc/?username=Jayanth-MKV&label=Profile%20views&color=0e75b6&style=flat" alt="Jayanth-MKV" />
 
@@ -13,7 +13,7 @@
 
 👀 I’m also working on **Artificial Intelligence💡, Machine Learning🖥️ and Data Science📊**, Its Implementation in **Robotic🖇️ Stimulation And Automation** and in the **Medical Field🧬** as well as in the **Web and Android Applications**.
 
-🌱 I’m currently learning **ML pipeline and other Frameworks😋**.
+🌱 I’m currently **Exploring😋**.
 
 💞️ I’m looking to collaborate with People who work on the Domain of **Artificial Intelligence💡, Machine Learning🖇️, CyberSecurity**, **Web Development🌟**, **Web3 Development🔅**, and also the **Open Source Contributors🗣️**
    who do Great Work can feel free to talk.
