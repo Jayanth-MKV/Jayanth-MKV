@@ -11,14 +11,14 @@
 
 # **Software Development Engineer**
 
-👀 I’m also working on **Artificial Intelligence💡, Machine Learning🖥️ and Data Science📊**, Its Implementation in **Robotic🖇️ Stimulation And Automation** and in the **Medical Field🧬** as well as in the **Web and Android Applications**.
+👀 I’m also working on **Artificial Intelligence💡, Machine Learning🖥️ and Software Development ( **Web and Android Applications** )📊**, Its Implementation in **Various Fields🧬**.
 
-🌱 I’m currently **Exploring😋**.
+🌱 **Exploring** ✅, currently **Implementing😋**.
 
 💞️ I’m looking to collaborate with People who work on the Domain of **Artificial Intelligence💡, Machine Learning🖇️, CyberSecurity**, **Web Development🌟**, **Web3 Development🔅**, and also the **Open Source Contributors🗣️**
    who do Great Work can feel free to talk.
 
-💬 Ask me about **Tech concepts like Web, ML, and DSA 😊**.
+💬 Ask me about **Tech concepts like Web, AI, and DSA 😊**.
 
 <br>
 
