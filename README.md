@@ -9,7 +9,7 @@
 
 &nbsp;
 
-# **Software Development Engineer**
+# **Generative AI Engineer**
 
 👀 I’m also working on **Artificial Intelligence💡, Machine Learning🖥️ and Software Development ( **Web and Android Applications** )📊**, Its Implementation in **Various Fields🧬**.
 
@@ -32,7 +32,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="jayanthmarina" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/jayanth-mkv-685609207/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_linkedin-256.png" alt="https://www.linkedin.com/in/jay1113" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayanthmkv/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_linkedin-256.png" alt="https://www.linkedin.com/in/jay1113" height="40" width="40" /></a>
 <a href="https://www.facebook.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_facebook-256.png" alt="https://www.facebook.com/jayanthintect1" height="40" width="40" /></a>
 <a href="https://www.instagram.com/jayanth_mkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_instagram-256.png" alt="https://www.instagram.com/jayanth_mkv" height="40" width="40" /></a>
 <a href="https://discord.gg/9MxVqaeK7e" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-256.png" alt="https://discord.gg/9MxVqaeK7e" height="40" width="40" /></a>
