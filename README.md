@@ -2,41 +2,49 @@
 <!-- <h1 align="center"><b>👋 Hi, I’m  JAYANTH 😎</b></h1> -->
 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&size=30&duration=3000&color=36BCF7FF&background=7FFCFF00&center=true&height=69&lines=Hello+Mate!;Let's+Learn+With+Fun;Let's+Connect;Take+A+View+👇"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&duration=3000&color=36BCF7FF&background=7FFCFF00&center=true&height=69&lines=Crafting+Intelligent+Solutions;Empowering+the+Future+with+AI;Bridging+the+Gap+Between+Man+and+Machine;Revolutionizing+Industries+with+AI+Innovations"/></p>
 
 <img src="https://komarev.com/ghpvc/?username=Jayanth-MKV&label=Profile%20views&color=0e75b6&style=flat" alt="Jayanth-MKV" />
 
 
 &nbsp;
 
-# **Generative AI Engineer**
+# **AI Engineer**
 
-👀 I’m also working on **Artificial Intelligence💡, Machine Learning🖥️ and Software Development ( **Web and Android Applications** )📊**, Its Implementation in **Various Fields🧬**.
+👀 I’m also working on **Saas Development💡, Data AI 🖥️ and Custom Software Development ( **Web AI Applications** )📊**, Its Implementation in **Various Fields🧬**.
 
 🌱 **Exploring** ✅, currently **Implementing😋**.
 
-💞️ I’m looking to collaborate with People who work on the Domain of **Artificial Intelligence💡, Machine Learning🖇️, CyberSecurity**, **Web Development🌟**, **Web3 Development🔅**, and also the **Open Source Contributors🗣️**
+💞️ I’m looking to collaborate with People who work on the Domain of 
+ - **Artificial Intelligence💡**,
+ - **Machine Learning🖇️**,
+ - **CyberSecurity**,
+ - **Web Development🌟**,
+ - **Web3 🔅**,
+ - and also the **Open Source Contributors🗣️**
    who do Great Work can feel free to talk.
 
-💬 Ask me about **Tech concepts like Web, AI, and DSA 😊**.
+💬 Ask me about **Tech concepts like AI, Web, and DSA 😊**.
 
 <br>
 
-[![Xplore Community](https://xplore-blog.vercel.app/xc-1.png)](https://discord.com/invite/9MxVqaeK7e)
+## **Be Updated In AI** 
+(click on the image below to get AI concepts, news, and updates directly to your email twice a week for free)
+<!--[![Xplore Community](https://xplore-blog.vercel.app/xc-1.png)](https://discord.com/invite/9MxVqaeK7e) -->
+[![Simlifying AI For You](https://pbs.twimg.com/profile_banners/1398581381622493190/1724340814/1500x500)](https://simplifying-ai-for-you.beehiiv.com/subscribe)
 
 <br>
-
 <!--<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/1qi9jxtXNmCobkNhd4/giphy.gif"> -->
 <br>
 
 ### Connect with me:
 
 <a href="https://twitter.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_twitter-256.png" alt="jayanthmarina" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/jayanthmkv/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_linkedin-256.png" alt="https://www.linkedin.com/in/jay1113" height="40" width="40" /></a>
-<a href="https://www.facebook.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_facebook-256.png" alt="https://www.facebook.com/jayanthintect1" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayanthmkv/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_linkedin-256.png" alt="https://www.linkedin.com/in/jayanthmkv" height="40" width="40" /></a>
+<a href="https://www.facebook.com/jayanthmkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_facebook-256.png" alt="https://www.facebook.com/jayanthmkv" height="40" width="40" /></a>
 <a href="https://www.instagram.com/jayanth_mkv" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_instagram-256.png" alt="https://www.instagram.com/jayanth_mkv" height="40" width="40" /></a>
 <a href="https://discord.gg/9MxVqaeK7e" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-media-2475/128/discord_message_interaction_logo_communication-256.png" alt="https://discord.gg/9MxVqaeK7e" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@xplorecommunity" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_youtube-64.png" alt="https://www.youtube.com/@xplorecommunity" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@Simple-AI-fy" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_youtube-64.png" alt="https://www.youtube.com/@Simple-AI-fy" height="40" width="40" /></a>
 <br> 
 
 
@@ -82,6 +90,7 @@
 ### 📫 **REACH ME ON** 
 
   
+- 💬 **Send Me Contract**     : <https://linktr.ee/jayanthmkv><br>
 - 💬 **Blog**     : <https://medium.com/@mkvjayanth1><br>
 - 💥 **Discord**  : Jayanth#7139 <br>
 - 💥 **Discord channel [ XPLORE COMMUNITY ]** : <a href="https://discord.gg/9MxVqaeK7e" > Join </a>
