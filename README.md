@@ -21,8 +21,7 @@
  - **CyberSecurity**,
  - **Web Development🌟**,
  - **Web3 🔅**,
- - and also the **Open Source Contributors🗣️**
-   who do Great Work can feel free to talk.
+If you're passionate about any of these fields and are open to sharing ideas or working together, please feel free to reach out. I’m eager to learn from others and contribute where I can!
 
 💬 Ask me about **Tech concepts like AI, Web, and DSA 😊**.
 
