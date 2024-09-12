@@ -2,7 +2,7 @@
 <!-- <h1 align="center"><b>👋 Hi, I’m  JAYANTH 😎</b></h1> -->
 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&duration=3000&color=36BCF7FF&background=7FFCFF00&center=true&height=69&lines=Crafting+Intelligent+Solutions;Empowering+the+Future+with+AI;Bridging+the+Gap+Between+Man+and+Machine;Revolutionizing+Industries+with+AI+Innovations"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&duration=3000&color=36BCF7FF&background=7FFCFF00&center=true&height=69&lines=Crafting+Intelligent+Solutions;Empowering+the+Future+with+AI;Bridging+Gap+For+Man+&+Machine;Revolutionizing+with+AI+Innovations"/></p>
 
 <img src="https://komarev.com/ghpvc/?username=Jayanth-MKV&label=Profile%20views&color=0e75b6&style=flat" alt="Jayanth-MKV" />
 
