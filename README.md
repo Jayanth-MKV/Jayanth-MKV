@@ -97,7 +97,7 @@ If you're passionate about any of these fields and are open to sharing ideas or 
 <br>
    
 
-> ## **Every Great Discovery✨ by the mankind💥eventually led towards discovering something surpassing it !!! 🌟**
+> ## **Every Great Discovery💥eventually led towards discovering something surpassing it !!! This is called CREATIVE DESTRUCTION**
 
        
        
